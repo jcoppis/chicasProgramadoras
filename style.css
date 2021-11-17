@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+.titulo {
+  text-align: center;
+  color: red;
+}
+
+#listaPersonas {
+  background-color: #c5b5a055;
+  width: 33%;
+}
+
+.persona {
+  color: blueviolet;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: small;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
