@@ -11,13 +11,13 @@
 
 #listaPersonas {
   background-color: #c5b5a055;
-  width: 33%;
+  width: 50%;
 }
 
 .persona {
   color: blueviolet;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: small;
+  /* font-size: small; */
 }
 
 .red {
